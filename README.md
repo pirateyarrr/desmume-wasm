@@ -1,7 +1,7 @@
 # DeSmuME-wasm
 
 WebAssembly port of the DeSmuME. 
-
+(this is orignaly by someone else im just using this just in case someone breaks the oraingal.)
 Designed for iPhone/iPad, also workable on other devices with a modern browser.
 
 https://ds.44670.org/
